@@ -65,4 +65,4 @@ This project was successfully completed as a collaborative team effort, ensuring
 ---
 
 ## 🔗 Connect
-If you’d like to learn more about the implementation or collaborate on similar AWS security automation projects, feel free to connect with me here on [LinkedIn](https://www.linkedin.com/) or check out my GitHub profile.
+If you’d like to learn more about the implementation or collaborate on similar AWS security automation projects, feel free to connect with me here on [LinkedIn – Hasir Sayyed](https://www.linkedin.com/in/hasir-sayyed-b16520245) or check out my GitHub profile.
