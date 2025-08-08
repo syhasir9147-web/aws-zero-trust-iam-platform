@@ -1,58 +1,68 @@
 # AWS Zero Trust IAM Platform with Least-Privilege Automation
 
-## 📌 Overview
-This project implements a **Zero Trust Identity and Access Management (IAM) Platform** on AWS with automated least-privilege enforcement.  
-Our solution is designed to:
-- Enforce strict identity security
-- Automate policy enforcement
-- Detect and remediate risky IAM configurations in near real-time
+## 📌 Project Overview
+This project implements a **Zero Trust Identity & Access Management (IAM) Platform** on AWS, designed to:
+- Enforce least-privilege access across AWS accounts
+- Automate IAM policy compliance checks and remediation
+- Provide end-to-end monitoring, alerting, and logging
+- Reduce security risks in cloud environments
 
 ---
 
 ## 🛠 Key Features
-- **Role-based access** with AWS Organizations & OU-level Service Control Policies (SCPs)  
-- **Real-time IAM compliance checks** using AWS Config & IAM Access Analyzer  
-- **Automated policy remediation** with EventBridge + Lambda  
-- **End-to-end logging & monitoring** via CloudTrail, GuardDuty, and DynamoDB  
-- **Instant alerts** through CloudWatch Alarms + SNS
+- **Role-Based Access Control (RBAC)** with Organizational Unit-level Service Control Policies (SCPs)
+- **Real-time IAM compliance checks** using AWS Config & Access Analyzer
+- **Automated detection & remediation** of risky IAM policies with Amazon EventBridge + AWS Lambda
+- **Centralized monitoring & logging** using AWS CloudTrail, Amazon GuardDuty, and DynamoDB
+- **Instant alerts** with Amazon CloudWatch Alarms + SNS notifications
 
 ---
 
-## 📊 Impact & Outcomes
-✅ **40–60%** reduction in over-privileged IAM roles  
+## 📊 Project Outcomes
+✅ 40–60% reduction in over-privileged IAM roles  
 ✅ IAM misconfigurations flagged within **2 minutes**  
-✅ **100%** IAM usage logs monitored across accounts  
-✅ Zero Trust session enforcement reduced access risk by **~50%**  
+✅ 100% IAM usage logs monitored across accounts  
+✅ Zero Trust session enforcement reduced risk by ~50%  
 
 ---
 
-## 🏗 Architecture
-![Architecture Diagram](architecture/Architecture_Diagram.jpg)
+---
+
+## 🖼 Architecture Diagram
+![Architecture Diagram](AWS_ZeroTrust_IAM_Platform/architecture/Architecture_Diagram.jpg)
 
 ---
 
-## 📂 Project Files
-| File | Description |
-|------|-------------|
-| [Project_Presentation.pdf](presentation/Project_Presentation.pdf) | PDF version of the project presentation |
-| [Project_Presentation.pptx](presentation/Project_Presentation.pptx) | Editable PPTX version of the project presentation |
-| [Project_Steps.docx](docs/Project_Steps.docx) | Step-by-step detailed implementation guide |
+## 📄 Documentation
+📘 [Step-by-Step Project Guide (PDF)](AWS_ZeroTrust_IAM_Platform/docs/Project_Steps.pdf)
 
 ---
 
-## 📜 How to Use
-1. View the **[PDF presentation](presentation/Project_Presentation.pdf)** for a quick overview of the project.  
-2. Open **[Project_Steps.docx](docs/Project_Steps.docx)** for detailed, step-by-step implementation instructions.  
-3. Review the architecture diagram above to understand the overall system design.
+## 🎤 Presentation
+- 📄 [Project Presentation – PDF](AWS_ZeroTrust_IAM_Platform/presentation/Project_Presentation.pdf)  
+- 📊 [Project Presentation – PPTX](AWS_ZeroTrust_IAM_Platform/presentation/Project_Presentation.pptx)
 
 ---
 
-## 🤝 Teamwork
-This was a collaborative team project, successfully executed with shared efforts, brainstorming, and knowledge exchange.  
+## 🚀 Tech Stack
+- **AWS IAM**
+- **AWS SSO**
+- **Amazon Cognito**
+- **AWS CloudTrail**
+- **Amazon GuardDuty**
+- **AWS Lambda**
+- **Amazon DynamoDB**
+- **Amazon EventBridge**
+- **AWS Config**
+- **Amazon CloudWatch**
+- **Amazon SNS**
 
 ---
 
-## 🏷 Tags
-`AWS` `Cloud Security` `IAM` `Zero Trust` `Automation` `Cloud Computing`
+## 👥 Team
+This project was successfully completed as a collaborative team effort, ensuring seamless integration of security automation across AWS services.
 
+---
 
+## 🔗 Connect
+If you’d like to learn more about the implementation or collaborate on similar AWS security automation projects, feel free to connect with me here on [LinkedIn](https://www.linkedin.com/) or check out my GitHub profile.
