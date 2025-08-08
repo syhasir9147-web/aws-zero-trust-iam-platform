@@ -10,7 +10,7 @@ A **team project** implementing a Zero Trust IAM Platform on AWS to enforce stri
 ---
 
 ## 🏗 Architecture
-![Architecture Diagram](/architecture/Architecture_Slide.png)
+![Architecture Diagram](/architecture/Architecture_Diagram.jpg)
 
 ---
 
@@ -32,9 +32,9 @@ A **team project** implementing a Zero Trust IAM Platform on AWS to enforce stri
 ---
 
 ## 📂 Project Resources
-- [📄 Overview Presentation (PPTX)](/presentation/Project2_Presentation.pptx)
-- [📄 Overview Presentation (PDF)](/presentation/Project2_Presentation.pdf)
-- [📝 Step-by-Step Implementation Guide (DOCX)](/docs/Project2_Steps.docx)
+- [📄 Overview Presentation (PPTX)](/presentation/Project_Presentation.pptx)
+- [📄 Overview Presentation (PDF)](/presentation/Project_Presentation.pdf)
+- [📝 Step-by-Step Implementation Guide (DOCX)](/docs/Project_Steps.docx)
 
 ---
 
